@@ -448,3 +448,4 @@ class TemperatureDropdown extends StatelessWidget {
 // Area
 // Time
 // Data
+// Weight
